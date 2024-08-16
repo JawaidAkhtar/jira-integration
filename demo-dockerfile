@@ -1,4 +1,3 @@
 #this is for testing jira-integration
 FROM
 WORKDIR
-COPY
